@@ -2382,3 +2382,104 @@ ul, ol {
     grid-template-columns: 1fr;
   }
 }
+
+/* ==========================================================================
+   ENHANCED UI: FLOATING DIRECT ACTION BUTTON (WHATSAPP & WHOLESALE DESK)
+   ========================================================================== */
+.floating-inquiry-btn {
+  position: fixed;
+  bottom: 2rem;
+  right: 2rem;
+  z-index: 120;
+  display: flex;
+  align-items: center;
+  gap: 0.65rem;
+  background-color: #25D366;
+  color: #ffffff;
+  padding: 0.85rem 1.35rem;
+  border-radius: var(--radius-full);
+  box-shadow: 0 10px 25px rgba(37, 211, 102, 0.4);
+  font-weight: 700;
+  font-size: 0.9375rem;
+  text-decoration: none;
+  transition: all var(--transition-base);
+  animation: pulseInquiry 3.5s infinite;
+}
+
+.floating-inquiry-btn:hover {
+  background-color: #20ba5a;
+  transform: translateY(-4px) scale(1.03);
+  box-shadow: 0 14px 30px rgba(37, 211, 102, 0.5);
+  color: #ffffff;
+}
+
+.floating-inquiry-btn svg {
+  width: 22px;
+  height: 22px;
+  fill: currentColor;
+}
+
+@keyframes pulseInquiry {
+  0%, 100% {
+    box-shadow: 0 8px 24px rgba(37, 211, 102, 0.35);
+  }
+  50% {
+    box-shadow: 0 0 0 12px rgba(37, 211, 102, 0.15), 0 8px 28px rgba(37, 211, 102, 0.4);
+  }
+}
+
+@media (max-width: 600px) {
+  .floating-inquiry-btn {
+    bottom: 1.25rem;
+    right: 1.25rem;
+    padding: 0.75rem 1.1rem;
+    font-size: 0.85rem;
+  }
+  .floating-inquiry-btn span {
+    display: none;
+  }
+  .floating-inquiry-btn {
+    width: 50px;
+    height: 50px;
+    padding: 0;
+    justify-content: center;
+  }
+}
+
+/* Category Filter Active Animation */
+.filter-btn {
+  cursor: pointer;
+  user-select: none;
+}
+
+.catalog-search-clear {
+  display: none;
+  background: none;
+  border: none;
+  color: var(--color-muted-text);
+  font-size: 1.25rem;
+  cursor: pointer;
+  padding: 0 0.5rem;
+  line-height: 1;
+}
+
+.catalog-search-clear.visible {
+  display: block;
+}
+
+/* Print Stylesheet for Hospital Procurement */
+@media print {
+  .top-bar, .site-header, .site-footer, .floating-inquiry-btn, .modal-backdrop, .hero-carousel-container, .mobile-nav-drawer {
+    display: none !important;
+  }
+  body {
+    background: #fff !important;
+    color: #000 !important;
+  }
+  .product-card {
+    break-inside: avoid;
+    box-shadow: none !important;
+    border: 1px solid #ccc !important;
+  }
+}
+
