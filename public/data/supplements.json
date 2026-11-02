@@ -1,0 +1,182 @@
+[
+  {
+    "id": "supp-001",
+    "name": "New AGE Omega-3 Fish Oil 1000mg",
+    "brand": "New AGE",
+    "category": "Cardiovascular & Vital Oils",
+    "strength": "1000mg (EPA / DHA Rich)",
+    "packSize": "100 Softgels",
+    "description": "Purified molecularly distilled fish oil supplement providing rich essential fatty acids to support cardiovascular health, cognitive function, and joint mobility.",
+    "qualityCharacteristics": [
+      "Purified to eliminate mercury, PCBs, and heavy metal contaminants",
+      "High concentration of bioactive EPA and DHA omega-3 triglycerides",
+      "Enteric-coated softgels engineered to eliminate fishy burps and aftertaste"
+    ],
+    "storage": "Store tightly closed in a cool, dry place away from heat and sunlight",
+    "image": "/assets/products/supp-omega3.svg",
+    "badge": "Cardiovascular Health",
+    "isFeatured": true
+  },
+  {
+    "id": "supp-002",
+    "name": "New AGE Co.Q10 200mg",
+    "brand": "New AGE",
+    "category": "Cardiovascular & Cellular Energy",
+    "strength": "200mg Active Form",
+    "packSize": "60 Softgels",
+    "description": "Vital coenzyme naturally concentrated in myocardial tissues, supporting cellular ATP energy production and providing strong lipid-soluble antioxidant defense.",
+    "qualityCharacteristics": [
+      "Natural bio-fermented trans-isomer form with maximum bio-identity",
+      "Enhanced absorption lipid suspension base",
+      "Crucial support for individuals taking statin medications"
+    ],
+    "storage": "Store at room temperature in a dark, dry cabinet",
+    "image": "/assets/products/supp-coq10.svg",
+    "badge": "Heart Vitality",
+    "isFeatured": true
+  },
+  {
+    "id": "supp-003",
+    "name": "New AGE Magnesium Glycinate 400mg",
+    "brand": "New AGE",
+    "category": "Nerve & Muscle Support",
+    "strength": "400mg Chelated Magnesium",
+    "packSize": "90 Tablets",
+    "description": "High-absorption fully chelated magnesium bonded with glycine for superior intestinal tolerability, promoting calm nerves, deep restorative sleep, and muscle comfort.",
+    "qualityCharacteristics": [
+      "100% chelated form gentle on the stomach with zero laxative effect",
+      "Supports more than 300 essential enzymatic reactions in the human body",
+      "Non-GMO, vegan tablet formulation free of artificial preservatives"
+    ],
+    "storage": "Keep bottle tightly sealed in a dry environment below 25°C",
+    "image": "/assets/products/supp-magnesium.svg",
+    "badge": "Rest & Muscle Comfort",
+    "isFeatured": true
+  },
+  {
+    "id": "supp-004",
+    "name": "Vitborah Timolol Eye Drops BP 0.5%",
+    "brand": "Vitborah Ophthalmic",
+    "category": "Ophthalmic Care",
+    "strength": "0.5% w/v Sterile Solution",
+    "packSize": "10ml Dropper Bottle",
+    "description": "Sterile ophthalmic beta-blocker solution formulated to lower elevated intraocular pressure in patients with ocular hypertension or open-angle glaucoma.",
+    "qualityCharacteristics": [
+      "Sterile micro-filtered solution with calibrated dropper tip",
+      "Physiological buffering for minimal ocular stinging on instillation",
+      "Sealed with tamper-evident safety closure cap"
+    ],
+    "storage": "Store below 25°C protected from light; discard 28 days after first opening",
+    "image": "/assets/products/supp-timolol.svg",
+    "badge": "Ophthalmic Specialist",
+    "isFeatured": true
+  },
+  {
+    "id": "supp-005",
+    "name": "New AGE Glutathione 500mg",
+    "brand": "New AGE",
+    "category": "Antioxidant & Cellular Defense",
+    "strength": "500mg Reduced L-Glutathione",
+    "packSize": "60 Dietary Capsules",
+    "description": "Known as the body's master antioxidant, reduced L-glutathione provides profound cellular detoxification support and promotes radiant skin tone and vitality.",
+    "qualityCharacteristics": [
+      "Pure biologically active Setria-grade reduced L-glutathione",
+      "Synergistically fortified with Vitamin C for recycling activity",
+      "Plant-derived cellulose capsules"
+    ],
+    "storage": "Store in a cool, dark location away from humidity",
+    "image": "/assets/products/supp-glutathione.svg",
+    "badge": "Master Antioxidant",
+    "isFeatured": true
+  },
+  {
+    "id": "supp-006",
+    "name": "New AGE C-1000 + Rose Hips & Bioflavonoids",
+    "brand": "New AGE",
+    "category": "Immune Defense",
+    "strength": "1000mg with Citrus Bioflavonoid Complex",
+    "packSize": "100 Tablets",
+    "description": "High-potency ascorbic acid fortified with wild rose hips and citrus bioflavonoid complexes to maximize cellular retention and year-round immune defense.",
+    "qualityCharacteristics": [
+      "Time-release buffered tablet reduces stomach acidity",
+      "Natural bioflavonoids double biological uptake",
+      "Supports natural collagen synthesis for healthy blood vessels and skin"
+    ],
+    "storage": "Store in dry place below 30°C",
+    "image": "/assets/products/supp-vitaminc.svg",
+    "badge": "Daily Immunity",
+    "isFeatured": true
+  },
+  {
+    "id": "supp-007",
+    "name": "New AGE Women's Probiotic 55 Billion",
+    "brand": "New AGE",
+    "category": "Digestive & Women's Health",
+    "strength": "55 Billion CFU / 14 Strains + Cranberry Extract",
+    "packSize": "60 Delayed-Release Capsules",
+    "description": "Targeted multi-strain probiotic formulation developed with concentrated cranberry extract to support vaginal microbial flora, urinary tract wellness, and digestive balance.",
+    "qualityCharacteristics": [
+      "14 clinically researched Lactobacillus and Bifidobacterium strains",
+      "Desiccant-lined moisture barrier bottle ensuring live CFU count through expiry",
+      "Delayed-release capsules resist stomach acids to reach the gut"
+    ],
+    "storage": "Refrigerate after opening or store in a cool dry area under 22°C",
+    "image": "/assets/products/supp-probiotic.svg",
+    "badge": "55 Billion CFU",
+    "isFeatured": true
+  },
+  {
+    "id": "supp-008",
+    "name": "New AGE Super Collagen + C",
+    "brand": "New AGE",
+    "category": "Beauty & Joint Structure",
+    "strength": "Type 1 & 3 Hydrolyzed Collagen Peptides",
+    "packSize": "60 Coated Tablets",
+    "description": "Bioavailable hydrolyzed collagen peptides paired with Vitamin C to stimulate natural collagen regeneration, skin elasticity, hair thickness, and connective joint flexibility.",
+    "qualityCharacteristics": [
+      "Enzymatically hydrolyzed into low-molecular-weight bioactive micro-peptides",
+      "Stimulates endogenous fibroblast collagen production",
+      "Sugar-free and zero gluten formulation"
+    ],
+    "storage": "Store tightly capped in a dry cabinet",
+    "image": "/assets/products/supp-collagen.svg",
+    "badge": "Youthful Glow & Joints",
+    "isFeatured": true
+  },
+  {
+    "id": "supp-009",
+    "name": "New AGE Berberine 600mg",
+    "brand": "New AGE",
+    "category": "Metabolic & Blood Glucose",
+    "strength": "600mg Berberine HCl",
+    "packSize": "60 Gelatin Capsules",
+    "description": "Potent botanical alkaloid traditionally extracted to activate the AMPK cellular metabolic master switch, helping maintain healthy blood glucose levels and lipid metabolism.",
+    "qualityCharacteristics": [
+      "Standardized 97% Berberis aristata root extract",
+      "Supports healthy insulin sensitivity and carbohydrate breakdown",
+      "Batch verified by third-party HPLC testing"
+    ],
+    "storage": "Store in a cool dry location",
+    "image": "/assets/products/supp-berberine.svg",
+    "badge": "Metabolic Health",
+    "isFeatured": true
+  },
+  {
+    "id": "supp-010",
+    "name": "New AGE Vitamin E 400 IU",
+    "brand": "New AGE",
+    "category": "Cellular Health & Skin",
+    "strength": "400 IU Natural d-Alpha Tocopherol",
+    "packSize": "100 Softgels",
+    "description": "Natural fat-soluble antioxidant defending cell membranes against oxidative free-radical damage, encouraging vascular integrity and healthy skin nourishment.",
+    "qualityCharacteristics": [
+      "100% natural d-alpha tocopherol for double the biological retention of synthetic forms",
+      "Clear amber gelatin softgels with natural soybean oil base",
+      "No artificial colors or chemical solvents"
+    ],
+    "storage": "Keep away from high heat and humidity",
+    "image": "/assets/products/supp-vitamine.svg",
+    "badge": "Antioxidant Shield",
+    "isFeatured": false
+  }
+]

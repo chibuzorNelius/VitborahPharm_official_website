@@ -1,0 +1,218 @@
+[
+  {
+    "id": "ther-001",
+    "name": "Artborah Tablets",
+    "genericName": "Artemether + Lumefantrine",
+    "category": "Antimalarial",
+    "strength": "20mg / 120mg",
+    "packSize": "1 x 18 Tablets / 24 Tablets Blister",
+    "description": "High-standard artemisinin-based combination therapy (ACT) designed for the reliable therapeutic management of acute uncomplicated malaria.",
+    "qualityCharacteristics": [
+      "Manufactured under certified WHO-cGMP conditions",
+      "High bioavailability and rapid parasite clearance",
+      "Blister foil packaged for optimal tropical stability"
+    ],
+    "storage": "Store below 30°C in a dry place, protected from direct sunlight",
+    "image": "/assets/products/artborah.svg",
+    "badge": "WHO Standard ACT",
+    "isFeatured": true
+  },
+  {
+    "id": "ther-002",
+    "name": "Vitboter Injection",
+    "genericName": "Artemether Injection",
+    "category": "Injections",
+    "strength": "80mg / 1ml & 40mg / 1ml",
+    "packSize": "6 Ampoules per Box",
+    "description": "Lipophilic artemisinin derivative formulated in sterile oily solution for intramuscular administration in acute and severe malaria management.",
+    "qualityCharacteristics": [
+      "Strict sterility and endotoxin batch testing",
+      "Fast clinical response and sustained therapeutic plasma concentration",
+      "Amber glass ampoules protecting light-sensitive compounds"
+    ],
+    "storage": "Store in the original outer carton between 15°C - 25°C",
+    "image": "/assets/products/vitboter.svg",
+    "badge": "Hospital Essential",
+    "isFeatured": true
+  },
+  {
+    "id": "ther-003",
+    "name": "Boraflox 500",
+    "genericName": "Ciprofloxacin Hydrochloride Tablets USP",
+    "category": "Antibacterial",
+    "strength": "500mg",
+    "packSize": "10 x 10 Film-Coated Tablets",
+    "description": "Broad-spectrum fluoroquinolone antibacterial agent indicated for the treatment of susceptible bacterial infections across respiratory, urinary, and gastrointestinal tracts.",
+    "qualityCharacteristics": [
+      "Ultra-pure active pharmaceutical ingredient (USP Grade)",
+      "Film-coated tablets for effortless ingestion and rapid gastric dissolution",
+      "Uniform hardness and friability compliance"
+    ],
+    "storage": "Keep in a cool, dry place away from moisture",
+    "image": "/assets/products/boraflox.svg",
+    "badge": "Broad Spectrum",
+    "isFeatured": true
+  },
+  {
+    "id": "ther-004",
+    "name": "Vitboram Injection",
+    "genericName": "Ceftriaxone Sodium for Injection USP",
+    "category": "Injections",
+    "strength": "1g / 500mg Powder + Sterile Water Vial",
+    "packSize": "1 Vial + 1 Ampoule diluent",
+    "description": "Third-generation cephalosporin antibiotic with broad antimicrobial activity against Gram-positive and Gram-negative organisms, for intravenous or intramuscular administration.",
+    "qualityCharacteristics": [
+      "Lyophilized sterile crystalline sodium salt formulation",
+      "Rapid reconstitution with zero particulates",
+      "Guaranteed microbiological potency"
+    ],
+    "storage": "Store dry powder below 25°C; protect reconstituted solution from heat",
+    "image": "/assets/products/vitboram.svg",
+    "badge": "Hospital Injections",
+    "isFeatured": true
+  },
+  {
+    "id": "ther-005",
+    "name": "Venita Injection",
+    "genericName": "Gentamicin Sulfate Injection",
+    "category": "Injections",
+    "strength": "80mg / 2ml & 280mg / 2ml",
+    "packSize": "10 Ampoules x 2ml",
+    "description": "Aminoglycoside bactericidal injectable indicated for severe systemic bacterial infections, sepsis, and complicated urinary tract infections.",
+    "qualityCharacteristics": [
+      "Aseptically filled under laminar airflow class A environment",
+      "Precision osmolarity and pH balance",
+      "Stringent particulate matter inspection"
+    ],
+    "storage": "Store at controlled room temperature 20°C to 25°C",
+    "image": "/assets/products/venita.svg",
+    "badge": "Critical Care",
+    "isFeatured": true
+  },
+  {
+    "id": "ther-006",
+    "name": "Vitborah Oral Rehydration Salts (ORS)",
+    "genericName": "WHO-Recommended Reduced Osmolarity ORS",
+    "category": "Antidiarrheal",
+    "strength": "20.5g Powder Sachet",
+    "packSize": "Box of 20 / 50 Sachets",
+    "description": "Scientifically balanced glucose-electrolyte oral formulation adhering to the World Health Organization low-osmolarity standard for rapid prevention and treatment of dehydration caused by acute diarrhea.",
+    "qualityCharacteristics": [
+      "Adheres strictly to WHO / UNICEF reduced osmolarity formula",
+      "Flavored with pleasant natural orange for pediatric acceptance",
+      "Triple-laminate moisture barrier foil packaging"
+    ],
+    "storage": "Keep sachets sealed; prepare fresh solution with potable water daily",
+    "image": "/assets/products/ors.svg",
+    "badge": "WHO Formula",
+    "isFeatured": true
+  },
+  {
+    "id": "ther-007",
+    "name": "Staxim Dry Suspension & Tablets",
+    "genericName": "Cefixime Trihydrate USP",
+    "category": "Antibacterial",
+    "strength": "100mg / 5ml Suspension & 200mg / 400mg Tablets",
+    "packSize": "30ml / 60ml Bottle & 10 Tablets Pack",
+    "description": "Oral third-generation cephalosporin offering strong stability against beta-lactamase degradation for effective treatment of acute otitis media, pharyngitis, and respiratory tract infections.",
+    "qualityCharacteristics": [
+      "Smooth reconstitution suspension with pleasant taste profile",
+      "Convenient once-daily or twice-daily dosing regimen",
+      "Tamper-evident child-resistant safety caps"
+    ],
+    "storage": "Store powder below 25°C; reconstituted suspension refrigerated for up to 14 days",
+    "image": "/assets/products/staxim.svg",
+    "badge": "Pediatric & Adult",
+    "isFeatured": true
+  },
+  {
+    "id": "ther-008",
+    "name": "Levotreat 500",
+    "genericName": "Levofloxacin Hemihydrate Tablets",
+    "category": "Antibacterial",
+    "strength": "500mg",
+    "packSize": "1 x 10 Tablets Blister",
+    "description": "Advanced synthetic broad-spectrum antibacterial agent with high tissue penetration, indicated for hospital-acquired and community-acquired pneumonia, skin structure infections, and pyelonephritis.",
+    "qualityCharacteristics": [
+      "Consistent 99.8%+ assay purity",
+      "Enhanced oral bioavailability nearing 99%",
+      "Engineered break-line for flexible dosage adjustment"
+    ],
+    "storage": "Store in dry quarters protected from moisture and heat",
+    "image": "/assets/products/levotreat.svg",
+    "badge": "Advanced Antibacterial",
+    "isFeatured": true
+  },
+  {
+    "id": "ther-009",
+    "name": "Vitborah Metronidazole Suspension & Tablets",
+    "genericName": "Metronidazole Benzoate 200mg/5ml & 400mg Tabs",
+    "category": "Antidiarrheal",
+    "strength": "200mg/5ml / 400mg",
+    "packSize": "60ml Suspension / 100 Tablets",
+    "description": "Synthetic nitroimidazole compound with antiprotozoal and anaerobic antibacterial activity for treating amoebiasis, giardiasis, and anaerobic surgical prophylaxis.",
+    "qualityCharacteristics": [
+      "Palatable taste-masked suspension base for improved patient adherence",
+      "Reliable dissolution profile matching pharmacopeial criteria",
+      "Hermetically sealed blister packs"
+    ],
+    "storage": "Store below 25°C away from heat and direct sunlight",
+    "image": "/assets/products/metronidazole.svg",
+    "badge": "Antiprotozoal",
+    "isFeatured": false
+  },
+  {
+    "id": "ther-010",
+    "name": "Vitborah Artesunate + Amodiaquine",
+    "genericName": "Artesunate + Amodiaquine Fixed Dose Combination",
+    "category": "Antimalarial",
+    "strength": "100mg / 270mg Adult & 50mg / 135mg Child",
+    "packSize": "1 x 6 / 1 x 3 Tablets",
+    "description": "Co-formulated fixed-dose artemisinin combination therapy (ACT) designed for prompt treatment of Plasmodium falciparum malaria.",
+    "qualityCharacteristics": [
+      "Fixed-dose combination eliminates pill burden and dosing confusion",
+      "Stable under zone IVb climatic conditions",
+      "Comprehensive stability testing across batch runs"
+    ],
+    "storage": "Store below 30°C in moisture-resistant packaging",
+    "image": "/assets/products/artesunate.svg",
+    "badge": "ACT Standard",
+    "isFeatured": false
+  },
+  {
+    "id": "ther-011",
+    "name": "Vitborah Paracetamol Infusion",
+    "genericName": "Paracetamol 10mg/ml IV Infusion",
+    "category": "Injections",
+    "strength": "1000mg / 100ml",
+    "packSize": "100ml Non-PVC Infusion Bottle",
+    "description": "Sterile intravenous analgesic and antipyretic solution for acute post-operative pain and pyrexia when oral administration is impractical.",
+    "qualityCharacteristics": [
+      "Sterilized by terminal autoclaving",
+      "Ready-to-use without dilution",
+      "Non-DEHP, non-PVC eco-friendly bottle"
+    ],
+    "storage": "Do not refrigerate or freeze; keep at 15°C - 30°C",
+    "image": "/assets/products/paracetamol-infusion.svg",
+    "badge": "Sterile Infusion",
+    "isFeatured": false
+  },
+  {
+    "id": "ther-012",
+    "name": "Vitborah Diclofenac Retard 100mg",
+    "genericName": "Diclofenac Sodium Sustained Release Tablets",
+    "category": "Pain Relief",
+    "strength": "100mg",
+    "packSize": "10 x 10 Film-Coated SR Tablets",
+    "description": "Non-steroidal anti-inflammatory drug (NSAID) with sustained-release matrix providing 24-hour therapeutic relief from acute musculoskeletal pain, arthritis, and inflammatory conditions.",
+    "qualityCharacteristics": [
+      "Polymeric sustained-release matrix preventing gastric peaks",
+      "Smooth 24-hour plasma concentration curve",
+      "Protected blister barrier packaging"
+    ],
+    "storage": "Store below 25°C in a dry place",
+    "image": "/assets/products/diclofenac.png",
+    "badge": "24h Sustained Relief",
+    "isFeatured": false
+  }
+]

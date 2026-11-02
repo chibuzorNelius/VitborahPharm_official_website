@@ -1,0 +1,6 @@
+{
+  "name": "Vibtorah Pharmaceuticals",
+  "description": "Vibtorah is a premier pharmaceutical corporation advancing healthcare through quality therapeutic medicines, New Age supplements, and community charity outreach.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
